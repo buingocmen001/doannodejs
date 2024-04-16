@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import "./header.css";
-import logo from "../../../assets/image/logo-dtu.png";
+import logo from "../../../assets/image/vn.png";
 import MenuDropdown from "../../DropdownMenu/dropdownMenu";
 import { Layout, Dropdown, Badge, Row, Col, Popover, Modal, List, Avatar, Menu } from 'antd';
 import { TranslationOutlined, BellOutlined, NotificationTwoTone } from '@ant-design/icons';
